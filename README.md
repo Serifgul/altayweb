@@ -172,7 +172,7 @@ Bu proje Altay takımına aittir. Tüm hakları saklıdır.
 
 ## 👥 Takım
 
-**Altay - Siber Vatan Savunucuları**
+**Altay - Siber Vatan **
 - Developer Team
 - Linux Team  
 - Active Directory Team
