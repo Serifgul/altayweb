@@ -78,20 +78,14 @@ function App() {
         {/* Background Elements */}
         <div className="absolute inset-0">
           {/* Background Video */}
-          <div className="absolute inset-0">
-            <video
-              autoPlay
-              loop
-              muted
-              playsInline
-              className="w-full h-full object-cover opacity-70"
-              preload="auto"
-            >
-                          <source src="/public/Animasyon_Oluşturma_İsteği_ve_Sonuç.mp4" type="video/mp4" />
-              Tarayıcınız video etiketini desteklemiyor.
-            </video>
-            <div className="absolute inset-0 bg-black/30"></div>
-          </div>
+         <div className="absolute inset-0">
+            <img
+                src="photo_5895647284929088720_w.jpg"
+                alt="Arka Plan"
+                className="w-full h-full object-cover opacity-70"
+            />
+  <div className="absolute inset-0 bg-black/30"></div>
+</div>
           
           {/* Gradient Overlays */}
           <div className="absolute top-1/4 right-1/4 w-96 h-96 opacity-20">
